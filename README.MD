@@ -1,3 +1,9 @@
+There is a live instance hosted here;
+http://www.yehiashouman.com:8888/admin/dashboard
+
+----- PLEASE FOLLOW ON FOR DETAILS ON SETUP ----
+
+
 Prerequisites Setup:
 nginx/1.10.3, 
 PHP 7.1.32 (fpm-fcgi)
