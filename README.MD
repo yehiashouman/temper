@@ -14,7 +14,6 @@ server {
     listen       8888 default_server;
     listen       [::]:8888 default_server;
     index       index.php index.html index.htm
-    server_name  wwww.yehiashouman.com;
     root         /opt/temper_assignment/public;
     charset utf-8;
     location / {
@@ -42,4 +41,8 @@ server {
 
 
 5. Make sure directories within 'storage' directory and path to log file is permissive to nginx or apache user.
-6. 
+6. Navigate to /admin/dashboard you should see the following;
+
+![Snapshot of running app instance](./screen_shot.png)
+
+
