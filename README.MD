@@ -1,10 +1,9 @@
-Prerequisites:
+Prerequisites Setup:
 nginx/1.10.3, 
 PHP 7.1.32 (fpm-fcgi)
-laravel/lumen-framework: 5.8.*,
-league/flysystem: ~1.0
-Nodejs v6.17.1
-Npm 3.10.10
+Composer 1.8.5,
+Nodejs v6.17.1,
+Npm 3.10.10,
 
 SETUP: 
 1.  CLONE to /opt/temper_assignment
